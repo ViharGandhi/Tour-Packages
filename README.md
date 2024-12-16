@@ -44,8 +44,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/ViharGandhi/Tour-Packages.git
+cd Tour-Packages
 ```
 
 ### 2. Frontend Setup (client/travel-app)
